@@ -20,3 +20,4 @@ D:\EducationTests\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netc
 D:\EducationTests\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
 D:\EducationTests\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
 D:\EducationTests\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.genruntimeconfig.cache
+D:\EducationTests\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.csproj.AssemblyReference.cache

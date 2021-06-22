@@ -20,3 +20,4 @@ D:\EducationTests\01.multithreading\MultiThreading.Task2.Chaining\obj\Debug\netc
 D:\EducationTests\01.multithreading\MultiThreading.Task2.Chaining\obj\Debug\netcoreapp2.1\MultiThreading.Task2.Chaining.dll
 D:\EducationTests\01.multithreading\MultiThreading.Task2.Chaining\obj\Debug\netcoreapp2.1\MultiThreading.Task2.Chaining.pdb
 D:\EducationTests\01.multithreading\MultiThreading.Task2.Chaining\obj\Debug\netcoreapp2.1\MultiThreading.Task2.Chaining.genruntimeconfig.cache
+D:\EducationTests\01.multithreading\MultiThreading.Task2.Chaining\obj\Debug\netcoreapp2.1\MultiThreading.Task2.Chaining.csproj.AssemblyReference.cache

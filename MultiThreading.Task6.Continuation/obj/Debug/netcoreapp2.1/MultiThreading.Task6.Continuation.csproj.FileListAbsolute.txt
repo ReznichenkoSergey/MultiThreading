@@ -8,3 +8,15 @@ D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation
 D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfo.cs
 D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
 D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.deps.json
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.runtimeconfig.json
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.runtimeconfig.dev.json
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.csproj.AssemblyReference.cache
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfoInputs.cache
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfo.cs
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.csproj.CoreCompileInputs.cache
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+D:\EducationTests\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.genruntimeconfig.cache

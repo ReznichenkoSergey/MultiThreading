@@ -7,6 +7,8 @@
    Demonstrate the work of the each case with console utility.
 */
 using System;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace MultiThreading.Task6.Continuation
 {
@@ -22,7 +24,35 @@ namespace MultiThreading.Task6.Continuation
             Console.WriteLine("Demonstrate the work of the each case with console utility.");
             Console.WriteLine();
 
-            // feel free to add your code
+            int x = 10;
+            
+            var taskMain = new Task<int>(() =>
+            {
+                Console.WriteLine($"Parent ThreadId= {Thread.CurrentThread.ManagedThreadId}");
+                return 100/x;
+            });
+            
+            var taskA = taskMain.ContinueWith(task =>
+            {
+                Console.WriteLine($"Task A: Parent Task status= {task.Status}, Child ThreadId= {Thread.CurrentThread.ManagedThreadId}");
+            });
+
+            var taskB = taskMain.ContinueWith(task =>
+            {
+                Console.WriteLine($"Task B: Exception in the parent task! Child ThreadId= {Thread.CurrentThread.ManagedThreadId}");
+            }, TaskContinuationOptions.OnlyOnFaulted);
+            
+            var taskC = taskMain.ContinueWith(task =>
+            {
+                Console.WriteLine($"Task C: Parent executed with fail ... ! Child ThreadId= {Thread.CurrentThread.ManagedThreadId}");
+            }, TaskContinuationOptions.OnlyOnFaulted | TaskContinuationOptions.ExecuteSynchronously);
+            
+            var taskD = taskMain.ContinueWith(task =>
+            {
+                Console.WriteLine($"Task D, Child ThreadId= {Thread.CurrentThread.ManagedThreadId}");
+            }, TaskContinuationOptions.LongRunning);
+            
+            taskMain.Start();
 
             Console.ReadLine();
         }
